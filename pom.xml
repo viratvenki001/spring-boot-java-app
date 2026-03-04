@@ -77,7 +77,7 @@
                         <artifactId>spring-boot-maven-plugin</artifactId>
                         <version>4.0.3</version>
                         <configuration>
-                        <mainClass>com.example.backend.BackendApplication</mainClass>
+                        <mainClass>com.venkatesh.backend.BackendApplication</mainClass>
                         </configuration>
 		</plugin>
 	    </plugins>		
