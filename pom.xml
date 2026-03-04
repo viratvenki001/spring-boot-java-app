@@ -80,7 +80,7 @@
                         <mainClass>com.example.backend.BackendApplication</mainClass>
                         </configuration>
 		</plugin>
-             <plugins>		
+	    </plugins>		
 	</build>
 
 </project>
